@@ -12,7 +12,7 @@
 
 # Índice/Sumário
 
-* [Introdução](#Sobre o Projeto)
+* [Sobre o Projeto](#sobre-o-Projeto)
 * [Sumário](#índice/sumário)
 * [Requisitos Funcionais](#requisitos-funcionais)
 * [Tecnologias Usadas](#tecnologias-usadas)
@@ -20,7 +20,12 @@
 * [Autores](#autores)
 * [Licença](#licença)
 * [Agradecimentos](#agradecimentos)
-* 
+* [Introdução](#introdução)
+* [Objetivos](#objetivos)
+* [Metodologia](#metodologia)
+* [Mapeamento de Dados](#mapeamento-de-dados)
+* [Feature Engineering](#feature-engineering)
+* [Análise dos Dados](#análise-dos-dados)
 
 
 # Requisitos Funcionais 
@@ -145,16 +150,14 @@ Para analisar os dados da base de filmes utilizada, foi empregada a metodologia 
 
 **2.1. Configuração do Ambiente:**
 
-**	A análise exploratória dos dados foi realizada utilizando apenas a plataforma Google Sheets. Todos os dados foram armazenados e manipulados nessa plataforma através de um arquivo .csv, sem a necessidade de utilizar ferramentas ou softwares de terceiros. Isso permitiu uma análise mais simplificada dos dados.
+A análise exploratória dos dados foi realizada utilizando apenas a plataforma Google Sheets. Todos os dados foram armazenados e manipulados nessa plataforma através de um arquivo .csv, sem a necessidade de utilizar ferramentas ou softwares de terceiros. Isso permitiu uma análise mais simplificada dos dados.
 
 **2.2. Leitura dos Dados:**
 
-**	Os dados foram lidos a partir de um arquivo .csv. A leitura foi feita de maneira simples e clara sem a necessidade de nenhuma configuração adicional, os dados foram revisados e foi feita uma limpeza das colunas que não seriam utilizadas para a análise 
+Os dados foram lidos a partir de um arquivo .csv. A leitura foi feita de maneira simples e clara sem a necessidade de nenhuma configuração adicional, os dados foram revisados e foi feita uma limpeza das colunas que não seriam utilizadas para a análise 
 
 **2.3. Organização e Limpeza dos Dados:**
-**
 
-**
   Neste projeto, foram tomadas algumas medidas para garantir a qualidade dos dados, como a remoção de colunas que não seriam utilizadas na análise, como "budget", "runtime" e “metacritic”. Além disso, foi verificado que não havia valores ausentes na base de dados e (exceto nas colunas “genre1” e “genre2”, conforme será explicado no próximo tópico), portanto, não foi necessária a realização de imputação de dados. Com isso, foi possível manter a integridade dos dados e garantir a eficiência da análise exploratória a ser realizada.
 
 - **2.3.2 Remoção de Colunas:**
@@ -185,10 +188,10 @@ As seguintes colunas foram removidas da análise:
 
 # Mapeamento de Dados**
 
-**	Durante essa análise, não foi necessário realizar qualquer tipo de alteração nos dados presentes no conjunto de dados. 
+Durante essa análise, não foi necessário realizar qualquer tipo de alteração nos dados presentes no conjunto de dados. 
 
 # Feature Engineering**
 
-**	Não foi necessária a aplicação de técnicas de "Feature Engineering" para enriquecer a análise realizada.
+Não foi necessária a aplicação de técnicas de "Feature Engineering" para enriquecer a análise realizada.
 
 # Análise dos Dados**
