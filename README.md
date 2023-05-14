@@ -47,8 +47,15 @@
 Leia o arquivo [CONTRIBUTING.md](CONTRIBUTING.md) para saber detalhes sobre o nosso código de conduta e o processo de envio de solicitações *pull* (*Pull Request*) para nós.
 
 # Autores
-
-[Exemplo](https://github.com/testing-library/react-testing-library#contributors)
+<table align="center">
+<tbody>
+    <tr>
+      <td align="center"><a href="https://github.com/AnaTherezaMotta"><img src="https://user-images.githubusercontent.com/81763479/203659006-23cd6c4e-86de-463f-9ce1-7067dd5c807a.jpg" width="100px;" alt="Ana Thereza Motta"/><br /><sub><b>Ana Thereza Motta</b></sub></a><br/></a></td>
+            <td align="center"><a href="https://github.com/rodrigueslucas062"><img src="https://user-images.githubusercontent.com/81763479/203658865-076475c3-9931-427d-9482-100b816cea79.jpg" width="100px;" alt="Lucas Rodrigues"/><br /><sub><b>Lucas Rodrigues</b></sub></a><br /></a></td>
+       <td align="center"><a href="https://github.com/T-Babetto"><img src="https://user-images.githubusercontent.com/81763479/203659015-e5c917b4-ac7a-46c5-a8df-5aeed33a39c6.jpg" width="100px;" alt="Tiago Babetto"/><br /><sub><b>Tiago Babetto</b></sub></a><br /></a></td>
+    </tr>
+</tbody>
+</table>
 
 # Licença
 
@@ -186,12 +193,12 @@ As seguintes colunas foram removidas da análise:
 
   É importante notar que alguns dos dados presentes na base de filmes analisada podem estar incompletos ou ausentes. Por exemplo, a duração e a bilheteria podem não estar disponíveis para alguns filmes. É importante considerar que determinados filmes podem ser associados a mais de um gênero, enquanto outros possuem somente um gênero. Nesses casos, as colunas "genre2" e "genre3" podem estar vazias ou sem conteúdo relevante. 
 
-# Mapeamento de Dados**
+# Mapeamento de Dados
 
 Durante essa análise, não foi necessário realizar qualquer tipo de alteração nos dados presentes no conjunto de dados. 
 
-# Feature Engineering**
+# Feature Engineering
 
 Não foi necessária a aplicação de técnicas de "Feature Engineering" para enriquecer a análise realizada.
 
-# Análise dos Dados**
+# Análise dos Dados
