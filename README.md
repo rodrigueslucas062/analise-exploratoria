@@ -1,13 +1,67 @@
-Análise de Dados Exploratória de Filmes IMDB
+# Análise de Dados Exploratória de Filmes IMDB
 
-**Introdução**
+
+![Capa do Projeto](https://github.com/rodrigueslucas062/analise-exploratoria/assets/39422637/4d0b3e09-d125-4b48-a194-40aa23a3134a)
+
+# Sobre o Projeto
 
   Internet Movie Database (IMDb) é uma das mais populares e maiores bases de dados online sobre filmes, séries e programas de televisão, premiações, eventos, celebridades  e outros profissionais da indústria cinematográfica. O site teve início em 1990 por Col Needham e após oito anos foi comprada pela Amazon. Desde então é utilizado por milhões de usuários para avaliar filmes, ranquear profissionais da área e por meio das opiniões dos usuários gerar listas de popularidade.
   Essa base de dados tem títulos de filmes, avaliação dos usuários, classificações, datas de lançamento, sinopses, elenco, premiações, entre outros. 	Iremos explorar uma base de dados editada pelo usuário “Sai Pranav Arigala”  do Data World, essa base de dados que ele criou é fruto de uma raspagem da lista que contém os top 100 filmes de todos os tempos no ranking da IMDb, no caso dessa base de dados ele retirou exatos 118 filmes e seus respectivos dados. 
 
   Em relação a base de dados do 118 filmes iremos utilizar o método de análise exploratória onde as informações serão examinadas e estudadas para identificar padrões nas avaliações e entender as razões por trás das relações dos dados analisados.  Como, por exemplo, identificar quais filmes tiveram as maiores avaliações relacionadas às suas características, sejam elas, gênero do filme, votos masculinos e femininos, votos por idade, etc.
 
-**Objetivos**
+# Índice/Sumário
+
+* [Introdução](#Sobre o Projeto)
+* [Sumário](#índice/sumário)
+* [Requisitos Funcionais](#requisitos-funcionais)
+* [Tecnologias Usadas](#tecnologias-usadas)
+* [Contribuição](#contribuição)
+* [Autores](#autores)
+* [Licença](#licença)
+* [Agradecimentos](#agradecimentos)
+* 
+
+
+# Requisitos Funcionais 
+
+- [x] **Introdução**
+- [x] **Objetivos**
+- [x] **Metodologia**
+- [x] **Configuração do Ambiente**
+- [x] **Mapeamento de Dados**
+- [x] **Feature Engineering**
+- [ ] **Análise dos Dados**
+
+# Tecnologias Usadas
+
+- [Google Sheets](https://www.google.com/sheets/about/)
+
+# Contribuição
+
+Leia o arquivo [CONTRIBUTING.md](CONTRIBUTING.md) para saber detalhes sobre o nosso código de conduta e o processo de envio de solicitações *pull* (*Pull Request*) para nós.
+
+# Autores
+
+[Exemplo](https://github.com/testing-library/react-testing-library#contributors)
+
+# Licença
+
+Este projeto está licenciado sob a Licença MIT,  consulte o arquivo [LICENSE.md](LICENSE.md) para mais detalhes.
+
+# Agradecimentos
+
+Seção livre para você agradecer a todos que contribuiram para a execução do seu projeto.
+
+
+# Introdução
+
+  Internet Movie Database (IMDb) é uma das mais populares e maiores bases de dados online sobre filmes, séries e programas de televisão, premiações, eventos, celebridades  e outros profissionais da indústria cinematográfica. O site teve início em 1990 por Col Needham e após oito anos foi comprada pela Amazon. Desde então é utilizado por milhões de usuários para avaliar filmes, ranquear profissionais da área e por meio das opiniões dos usuários gerar listas de popularidade.
+  Essa base de dados tem títulos de filmes, avaliação dos usuários, classificações, datas de lançamento, sinopses, elenco, premiações, entre outros. 	Iremos explorar uma base de dados editada pelo usuário “Sai Pranav Arigala”  do Data World, essa base de dados que ele criou é fruto de uma raspagem da lista que contém os top 100 filmes de todos os tempos no ranking da IMDb, no caso dessa base de dados ele retirou exatos 118 filmes e seus respectivos dados. 
+
+  Em relação a base de dados do 118 filmes iremos utilizar o método de análise exploratória onde as informações serão examinadas e estudadas para identificar padrões nas avaliações e entender as razões por trás das relações dos dados analisados.  Como, por exemplo, identificar quais filmes tiveram as maiores avaliações relacionadas às suas características, sejam elas, gênero do filme, votos masculinos e femininos, votos por idade, etc.
+
+# Objetivos
 
 O objetivo é analisar uma base de dados de 118 filmes para entender como suas características podem influenciar sua popularidade e aceitação. A base de dados possui informações como nota no IMDb, gênero, quantidade de votos, bilheteria, duração e formas de contabilizar a quantidade de votos por faixa etária e sexo. Serão respondidas perguntas como qual é o filme mais votado por sexo e faixa etária, quais os filmes com maior média de avaliação por gênero e qual é o filme mais votado pelos Estados Unidos e outros países. A base de dados está disponível em [https://data.world/IMDB.csv](https://data.world/saipranav/top-rated-english-movies-of-this-decade-from-imdb/workspace/file?filename=IMDB.csv)
 
@@ -23,9 +77,7 @@ O objetivo é analisar uma base de dados de 118 filmes para entender como suas c
 
 
 
-**Metodologia:**
-
-
+# Metodologia:
 
 Para analisar os dados da base de filmes utilizada, foi empregada a metodologia de análise exploratória de dados. Usaremos essa abordagem para identificar padrões nas avaliações e entender as razões por trás das relações dos dados analisados, como as maiores avaliações em relação às características do filme, como gênero, votos masculinos e femininos, votos por idade, entre outros. 
 
@@ -131,12 +183,12 @@ As seguintes colunas foram removidas da análise:
 
   É importante notar que alguns dos dados presentes na base de filmes analisada podem estar incompletos ou ausentes. Por exemplo, a duração e a bilheteria podem não estar disponíveis para alguns filmes. É importante considerar que determinados filmes podem ser associados a mais de um gênero, enquanto outros possuem somente um gênero. Nesses casos, as colunas "genre2" e "genre3" podem estar vazias ou sem conteúdo relevante. 
 
-**2.4. Mapeamento de Dados**
+# Mapeamento de Dados**
 
 **	Durante essa análise, não foi necessário realizar qualquer tipo de alteração nos dados presentes no conjunto de dados. 
 
-**2.5. Feature Engineering**
+# Feature Engineering**
 
 **	Não foi necessária a aplicação de técnicas de "Feature Engineering" para enriquecer a análise realizada.
 
-**3. Análise dos Dados**
+# Análise dos Dados**
