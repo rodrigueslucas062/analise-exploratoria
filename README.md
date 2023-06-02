@@ -36,11 +36,12 @@
 - [x] **Configuração do Ambiente**
 - [x] **Mapeamento de Dados**
 - [x] **Feature Engineering**
-- [ ] **Análise dos Dados**
+- [x] **Análise dos Dados**
 
 # Tecnologias Usadas
 
 - [Google Sheets](https://www.google.com/sheets/about/)
+-[PowerBi](https://powerbi.microsoft.com/pt-br/)
 
 # Contribuição
 
@@ -202,3 +203,38 @@ Durante essa análise, não foi necessário realizar qualquer tipo de alteraçã
 Não foi necessária a aplicação de técnicas de "Feature Engineering" para enriquecer a análise realizada.
 
 # Análise dos Dados
+O objetivo desse estudo se concentrava em identificar padrões nas avaliações e entender as razões por trás das relações dos dados analisados e verificar quais filmes tiveram as maiores avaliações relacionadas às suas características, sejam elas, gênero do filme, votos masculinos e femininos, votos por idade, etc.
+Para isso, definimos 5 perguntas para entender as preferências entre os sexos, porque mulheres e homens gostam ou não de gêneros ou títulos específicos, qual gênero de filme tem maior apreço pelo público em geralual interesse das diferentes faixas etárias pela internet e pelo cinema e qual a diferença dos países ao redor do mundo em relação às produções cinematográficas. As perguntas definidas foram:
+
+-Qual o filme mais votado pelo sexo
+feminino?
+- Qual o filme mais votado pelo sexo
+masculino?
+- Quais são os gêneros de filme com
+maior média de avaliação ?
+- Qual a faixa etária teve a maior
+quantidade de votos?
+- O filme mais votado pelos EUA e
+outros países?
+
+<br><br>
+![4](https://github.com/rodrigueslucas062/analise-exploratoria/assets/39422637/077626c8-a81b-44f8-ad38-b711fc8b87e5)
+<br><br>
+
+As conclusões finais a respeito dos beneficios e aplicações dessa analise:
+
+<br><br>
+![5](https://github.com/rodrigueslucas062/analise-exploratoria/assets/39422637/aac542aa-ea3a-4c92-a378-d837977a4ae0)
+<br><br>
+
+- A análise revelou informações sobre o público que podem impactar
+diretamente na indústria do entretenimento.
+- Preferências por gênero de filme: Identificar os tipos de filmes que
+recebem mais avaliações, possibilitando investir de maneira mais
+segura em conteúdos similares.
+- Faixa etária: Identificar a população mais engajada em avaliar os filmes,
+possibilitando a criação de marketing especializado.
+- Preferências por sexo: Reconhecer qual o gênero mais votado dos dois,
+detalhe importante para oferecer demandas cinematográficas que
+agrade a todos. E poder criar também conteúdo personalizado para cada
+grupo. 
