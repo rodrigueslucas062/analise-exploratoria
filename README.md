@@ -41,7 +41,7 @@
 # Tecnologias Usadas
 
 - [Google Sheets](https://www.google.com/sheets/about/)
--[PowerBi](https://powerbi.microsoft.com/pt-br/)
+- [PowerBi](https://powerbi.microsoft.com/pt-br/)
 
 # Contribuição
 
