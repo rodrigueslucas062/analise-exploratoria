@@ -206,7 +206,7 @@ Não foi necessária a aplicação de técnicas de "Feature Engineering" para en
 O objetivo desse estudo se concentrava em identificar padrões nas avaliações e entender as razões por trás das relações dos dados analisados e verificar quais filmes tiveram as maiores avaliações relacionadas às suas características, sejam elas, gênero do filme, votos masculinos e femininos, votos por idade, etc.
 Para isso, definimos 5 perguntas para entender as preferências entre os sexos, porque mulheres e homens gostam ou não de gêneros ou títulos específicos, qual gênero de filme tem maior apreço pelo público em geralual interesse das diferentes faixas etárias pela internet e pelo cinema e qual a diferença dos países ao redor do mundo em relação às produções cinematográficas. As perguntas definidas foram:
 
--Qual o filme mais votado pelo sexo
+- Qual o filme mais votado pelo sexo
 feminino?
 - Qual o filme mais votado pelo sexo
 masculino?
@@ -238,3 +238,13 @@ possibilitando a criação de marketing especializado.
 detalhe importante para oferecer demandas cinematográficas que
 agrade a todos. E poder criar também conteúdo personalizado para cada
 grupo. 
+
+# Gráficos
+
+<p align="center">
+  <img src="https://github.com/rodrigueslucas062/analise-exploratoria/assets/39422637/03ebff70-c20c-4e12-abfe-6db3eea186a9">
+  <img src="https://github.com/rodrigueslucas062/analise-exploratoria/assets/39422637/03ebff70-c20c-4e12-abfe-6db3eea186a9">
+  <img src="https://github.com/rodrigueslucas062/analise-exploratoria/assets/39422637/ae7e8dcf-c06a-4b90-a44d-39b8d06e0bb7">
+  <img src="https://github.com/rodrigueslucas062/analise-exploratoria/assets/39422637/6df485a2-fccc-40e7-829d-23a844ffa0d9"><br>
+  <img src="https://github.com/rodrigueslucas062/analise-exploratoria/assets/39422637/9226b6ba-b1c2-4549-9627-b84a9e691fb3">
+</p>
